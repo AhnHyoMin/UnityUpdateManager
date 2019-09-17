@@ -1,6 +1,9 @@
 # UnityUpdateManager
 UpdateManager Performance Test
 
+개인 작업하다, 테스트 한것이라 코드는 깔끔하지 않습니다.
+
+
 해당 프로젝트의 목적은 UpdateManager의 구현으로 성능상 이득을 가져올 수 있는지에 대한 테스트 
 
 [해당 포스트 읽어볼 것]
