@@ -40,6 +40,7 @@ ExportedObj/
  
 *.booproj
  
+*.o
  
  
 # ============ #
@@ -69,6 +70,3 @@ GraphicsSettings.asset
 ProjectSettings.asset
  
 ProjectVersion.txt
-
-
-√‚√≥: https://minhyeokism.tistory.com/67 [programmer-dominic.kim]
